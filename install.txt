@@ -1,0 +1,6 @@
+/install/
+/install.php
+/wordpress/wp-admin/install.php
+/joomla/installation/index.php
+/installation/index.php
+/wp-admin/install.php

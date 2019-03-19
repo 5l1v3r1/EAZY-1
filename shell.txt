@@ -1,0 +1,16 @@
+/WSO.php
+/dz.php
+/cpanel.php
+/shell.php
+/dz0.php
+/c99.php
+/c100.php
+/priv8.php
+/Cgishell.pl
+/c99.php
+/cgi.pl
+/Symlink.pl
+/lyokha.php
+/ly0kha.php
+/r57.php
+/r.php

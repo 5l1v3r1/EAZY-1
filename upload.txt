@@ -1,0 +1,5 @@
+/images/uploadprocess.php
+/addons/uploadify/uploadify.php
+/includes/inline_image_upload.php
+/up.php
+/upload.php
